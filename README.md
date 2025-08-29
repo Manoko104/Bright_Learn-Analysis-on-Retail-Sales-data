@@ -20,10 +20,10 @@ in order to support data-driven decision-making. Specifically, the analysis seek
 
 **📚Key Findings**
 
--1.💰Overall sales Patterns,
+-1.💰Overall sales Patterns;
 _The average purchase amount is $456 per transaction._
 
--2.Top Product Categories
+-2.Top Product Categories;
 
 _Electronics: $156,905 (highest revenue)._
 
@@ -31,7 +31,7 @@ _Clothing: $155,580 (very close to electronics)._
 
 _Beauty: $143,515 (slightly lower but still strong)_
 
--3.Customer Demographics
+-3.Customer Demographics;
 _By Gender:
 _Females spent $232,840, slightly more than males at $223,160_
 
@@ -44,7 +44,7 @@ _Ages 18–30: $123,155 (younger but strong contribution)._
 
 _Ages 60+: $44,815 (lowest spend)._
 
--4.Seasonality and Monthly Trends
+-4.Seasonality and Monthly Trends;
 
 Sales peaked in May ($53,150) and February ($44,060).
 
@@ -52,21 +52,23 @@ Lower sales observed in March ($28,990) and April ($33,870).
 
 -Recommendations;
 
--1. Product Strategy
+-1. Product Strategy;
+
 _Focus on Electronics and Clothing with bundles, promotions, and loyalty perks._
--2. Target Demographics
+
+-2. Target Demographics;
 
 _Prioritize marketing toward the 31–60 age group, as they are the largest spenders._
 
 Develop engagement strategies for the 18–30 group (e.g., student discounts, trendy products) to build long-term loyalty.
 
--3. Gender-Based Marketing
+-3. Gender-Based Marketing;
 
 _Female customers: Fashion and beauty cross-promotions._
 
 _Male customers: Electronics bundles (e.g., gadgets + accessories)._
 
--4. Seasonal Promotions
+-4. Seasonal Promotions;
 
 _Prepare inventory and campaigns for peak sales months (February and May)._
 
