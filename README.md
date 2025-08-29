@@ -19,4 +19,5 @@ in order to support data-driven decision-making. Specifically, the analysis seek
     product strategy, and customer engagement initiatives aimed at increasing revenue and customer loyalty.
 
 **📚Key Findings**
+
 -💰Overall sales Patterns,
