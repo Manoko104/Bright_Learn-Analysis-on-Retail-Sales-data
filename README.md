@@ -52,7 +52,7 @@ Lower sales observed in March ($28,990) and April ($33,870).
 
 -Recommendations;
 
--1. Product Strategy;
+-1.📦 Product Strategy;
 
 _Focus on Electronics and Clothing with bundles, promotions, and loyalty perks._
 
