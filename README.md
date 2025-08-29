@@ -1,4 +1,4 @@
-#Retail Sales Analysis
+# Retail Sales Analysis
 
 The primary objective of this analysis is to derive meaningful insights from the retail sales dataset 
 in order to support data-driven decision-making. Specifically, the analysis seeks to:
