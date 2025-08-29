@@ -17,3 +17,6 @@ in order to support data-driven decision-making. Specifically, the analysis seek
 
 -**Generate Actionable Recommendations** – Provide evidence-based suggestions for marketing, 
     product strategy, and customer engagement initiatives aimed at increasing revenue and customer loyalty.
+
+**📚Key Findings**
+-💰Overall sales Patterns,
